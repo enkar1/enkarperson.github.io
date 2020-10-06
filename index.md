@@ -1,4 +1,7 @@
-###                            Welcome to enkar's personal page 在这里，您能认识一个不一样的恩卡尔
+###                            Welcome to enkar's personal page
+
+在这里，您能认识一个不一样的恩卡尔
+
 ## 我的自我介绍
 
 我叫恩卡尔·努尔，哈萨克族，现在就读于北京大学，学习预防医学，来自新疆伊犁
